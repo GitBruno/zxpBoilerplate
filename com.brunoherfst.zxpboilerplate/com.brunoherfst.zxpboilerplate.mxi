@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<macromedia-extension name="ZXP Boilerplate" id="com.brunoherfst.zxpboilerplate" requires-restart="false" version="1.0.0" icon="em_store.png">
+
+	<author name="Bruno Herfst" />
+
+	<products>
+		<product familyname="InDesign" version="7" />
+		<product familyname="Photoshop" version="12" />
+	</products>
+
+	<files>
+		<file source="em_store.png" destination="$ExtensionSpecificEMStore" />
+	</files>
+
+	<description>
+		<![CDATA[Boilerplate for Adobe extensions.]]>
+	</description>
+
+</macromedia-extension>
