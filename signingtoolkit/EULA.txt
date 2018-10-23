@@ -1,0 +1,167 @@
+# Creative Suite 6 Extension Packaging and Signing Toolkit
+
+ADOBE CREATIVE SUITE 6 EXTENSION PACKAGING AND SIGNING TOOLKIT SOFTWARE DEVELOPMENT KIT LICENSE AGREEMENT
+ 
+Effective Date: first date Participant selects “Agree and Download…” or uses the SDK
+
+Last updated: 01 December 2013 
+
+ 
+
+The Creative Suite 6 Extension Packaging and Signing Toolkit SDK is licensed to you subject to the terms and conditions below which form a binding agreement between you and Adobe. By selecting the “Agree and Download” option, or by downloading, installing, or making use of any portion of the SDK, you are agreeing to the following terms and conditions. Please read them carefully. If you do not agree to the terms and conditions below, do not use the SDK. 
+
+ 
+
+AGREED TERMS AND CONDITIONS
+ 
+1.            DEFINITIONS
+
+1.1        “Adobe” means collectively, Adobe Systems Incorporated, a company incorporated in Delaware, U.S.A., having a place of business at 345 Park Avenue, San Jose, California USA 95110-2704, U.S.A. (“Adobe US”) and Adobe Systems Software Ireland, company incorporated in Ireland, having a place of business 4-6 Riverwalk, City West Business Campus, Saggart, Dublin 24, Ireland (“Adobe Ireland”).
+
+1.2        “Adobe Product(s)” means software applications, programs and other technologies not included in the SDK which are or may be made available by Adobe for licensing to the general public. This agreement does not govern use of Adobe Products. See the end user license agreement accompanying an Adobe Product for terms governing its use.
+
+1.3        “Developer, “you,” or “your” means any person or entity acquiring or using the SDK under the terms of this agreement.
+
+1.4        “Developer Products” means any software application(s), program(s) and other technolog(y/ies) you develop with use of the SDK to function with Adobe Products.
+
+1.5        “Intellectual Property Rights” means copyright, moral rights, trademark, trade dress, patent, trade secret, unfair competition, and any other intellectual and proprietary rights.
+
+1.6        “Sample Code” means any software code samples that are provided to you as part of the SDK, including any code samples, or portion(s) thereof, that is modified by you, or merged or incorporated with your Developer Products.
+
+1.7        “SDK” means all items comprising the software development kit and all associated materials licensed to you by Adobe as part of the SDK, including all SDK system files, application programming interfaces, tools, programs, utilities, Sample Code, and all related documentation, technical specifications, notes and explanatory materials that may be made available by Adobe, whether online or recorded on media, or manually downloaded by you, or placed on your computer by executing the SDK installer, as well as any modifications, updates, upgrades, additions to, or copies of, any of the foregoing. 
+
+ 
+
+2.            ACCEPTING THIS AGREEMENT
+
+2.1        YOU AGREE THAT THIS LICENSE AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN NEGOTIATED AGREEMENT SIGNED BY YOU AND YOUR USE OF THE SDK CONSTITUTES ACCEPTANCE OF THIS AGREEMENT AND YOUR INTENTION TO BE BOUND BY ITS TERMS.
+
+2.2        If you agree to be bound by these terms on behalf of your employer or other entity, you must have the legal authority to do so. If you are not authorized to bind your employer or such entity, do not select “Agree and Download” to accept this agreement and do not use the SDK. 
+
+ 
+
+3.            LICENSES GRANTED TO YOU
+
+Subject to terms of this agreement, Adobe grants to you a nonexclusive, nontransferable, royalty-free license with respect to:
+
+3.1        The SDK. To install and use the SDK for your internal design, development and testing of your Developer Products. You may make a limited number of copies of the SDK to be used by your employees or consultants, and use of the SDK by such employees or consultants is subject to the terms of this agreement. Except as permitted by Section 3.2, you may not include in your Developer Products or otherwise distribute any portion of the SDK; and
+
+3.2        The Sample Code.  To use, modify or merge, and distribute (in object code form only) all or portions of the Sample Code solely as part of your Developer Products. 
+
+ 
+
+4.            SCOPE OF LICENSE; LIMITATIONS AND RESTRICTIONS
+
+4.1        You may not sell, sublicense, rent, loan or lease any portion of the SDK to any third party.
+
+4.2        You may not reverse engineer, decompile or disassemble any portion of the SDK, except and only to the extent that applicable laws of the jurisdiction where you are located grant you the right to decompile software in order to obtain information necessary to render the software interoperable with other software, in which case you must first request the information from Adobe in writing and Adobe may, in its discretion, either provide such information to you or impose reasonable conditions, including reasonable fees, on your use of the SDK software to ensure that Adobe’s Intellectual Property Rights in the Software are protected.
+
+4.3        You may not use Adobe’s name, logo or trademarks to market your Developer Products.
+
+4.4        You may not assign your rights or obligations under this agreement without the prior written consent of Adobe. Any attempted assignment or transfer without prior written consent from Adobe is void and of no effect. 
+
+ 
+
+5.            PROPRIETARY RIGHTS.
+
+5.1        The items contained in the SDK are the Intellectual Property of Adobe and its suppliers and are protected by United States copyright and patent law, international treaty provisions and applicable laws of the country in which it is  being used. Adobe and its suppliers reserve all rights not expressly licensed to you in this agreement, and retain  title and ownership of the SDK, any media on which it is recorded, and all subsequent copies thereof, regardless of the form.
+
+5.2        You agree to protect all copyright and other ownership interests of Adobe and its suppliers in the SDK supplied to you under this agreement.
+
+5.3        The SDK or any portion(s) thereof may be supplied with certain accompanying proprietary notices, including patent, copyright and trademark notices. You must preserve exactly (and not remove or alter) all such proprietary notices displayed in or on the SDK, and you agree to reproduce the same proprietary notices in all copies you make of any portion of the SDK. 
+
+ 
+
+6.            TERM; TERMINATION
+
+This agreement is effective until terminated. Adobe has the right to terminate this agreement immediately, without judicial intervention, if you fail to comply  with any of its terms. Upon termination of this agreement you must discontinue use of the SDK and remove all full and partial copies of the SDK from your computer. In the event of termination or expiration, the terms of this agreement that, by their nature, are meant to survive termination, including all terms relating to ownership, indemnity obligations and procedures, disclaimers of warranties, and limitations on and exclusions of remedies and damages, will survive termination or expiration. 
+
+ 
+
+7.            DISCLAIMER OF WARRANTIES
+
+You expressly understand and agree that, to the maximum extent permitted by applicable law:
+
+7.1        Use of the SDK is entirely at your own risk. THE SDK IS PROVIDED BY ADOBE “AS-IS” AND WITHOUT WARRANTY OF ANY KIND. Adobe makes no representation with respect to the adequacy of any items in the SDK, for any particular purpose, or to produce any particular result, whether or not used by you in the development of Developer Products. Adobe and its suppliers are not liable for loss or damage arising out of this agreement or from the distribution or use of Developer Products containing portions of the SDK.
+
+7.2        ADOBE AND ITS  SUPPLIERS DISCLAIM ALL WARRANTIES, EITHER  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED CONDITIONS OR WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT OF ANY THIRD PARTY RIGHT IN RESPECT OF THE ITEMS IN THE SDK OR ANY SERVICES RELATED TO THE SDK. TO THE EXTENT PERMISSIBLE ANY IMPLIED WARRANTIES ARE LIMITED TO 90 DAYS.
+
+7.3        SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, THE LIMITATION OR EXCLUSION OF IMPLIED WARRANTIES, OR LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY MAY LAST, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. 
+
+ 
+
+8.            LIMITATION OF LIABILITY.
+
+8.1        IN NO EVENT WILL ADOBE, ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, LICENSORS, OR SUPPLIERS BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES INCLUDING DAMAGES FOR ANY LOST PROFITS, LOST SAVINGS, LOSS OF DATA, COSTS, FEES OR EXPENSES OF ANY KIND OR NATURE ARISING OUT OF ANY PROVISION OF THIS LICENSE AGREEMENT OR THE USE OR INABILITY TO USE THE SDK, EVEN IF AN ADOBE REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY PARTY. NOTHING IN THIS AGREEMENT LIMITS OR EXCLUDES ADOBE’S LIABILITY FOR GROSS NEGLIGENCE OR INTENTIONAL MISCONDUCT OF ADOBE OR ITS EMPLOYEES, OR FOR DEATH OR PERSONAL INJURY.
+
+8.2        THE LIMITATIONS AND EXCLUSIONS IN THIS SECTION 8 APPLY TO THE MAXIMUM  EXTENT  PERMITTED  BY APPLICABLE LAW IN YOUR JURISDICTION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF  INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES, SO THE ABOVE LMITATION OR EXCLUSION MAY NOT APPLY TO YOU. 
+
+ 
+
+9.            SUPPORT
+
+Adobe is under no obligation to provide any support under this agreement to you or any third party, including support for upgrades or future versions of the SDK or any portions thereof. 
+
+ 
+
+10.        INDEMNIFICATION.
+
+To the maximum extent permitted by law, you agree to indemnify Adobe, its subsidiaries, affiliates, officers, employees, agents, partners, licensors, or suppliers from any claim or demand, including attorneys’ fees, that arise or result from the use and distribution of your Developer Products that contain or are based upon any portion of the SDK, or from your violation of this agreement, or any rights, including any Intellectual Property Rights, of any other party. 
+
+ 
+
+11.        GOVERNING LAW
+
+11.1    North America. If you reside (or headquarters, if Customer is a business) in North America, then this agreement is governed by and will be construed pursuant to the laws of California, regardless of conflict of laws principles. You irrevocably consent to the exclusive jurisdiction and venue of the courts in Santa Clara County, California.
+
+11.2    Germany, France, U.K., Japan, Italy, and Spain. If you reside (or headquarters, if Customer is a business) in either Germany, France, U.K., Japan, Italy, or Spain, then this agreement is governed by and will be construed pursuant to the laws of the country where you reside, regardless of conflict of laws principles. All claims related to data protection and data privacy are subject to the laws of Ireland, which does not exclude the application of mandatory statutes. You irrevocably consent to the exclusive jurisdiction and venue of the courts in Frankfurt, Paris, London, Tokyo, Rome, and Madrid, respectively.
+
+11.3    Asia Pacific Countries. If you reside (or are headquartered, if you are a business) in a member state of the Association of Southeast Asian Nations (ASEAN) except for Myanmar, Mainland China, Hong Kong S.A.R., Macau S.A.R.,  Taiwan  R.O.C.,  or  the  Republic  of  Korea,  Bangladesh,  or  Nepal;  then  this  agreement  (including  the arbitration agreement contained in this clause) is governed by and will be construed pursuant to the laws of Singapore, regardless of conflict of laws principles. All claims related to data protection and data privacy are subject to the laws of Ireland, which does not exclude the application of mandatory statutes. Any dispute arising out of or in connection with this agreement, including any question regarding its existence, validity, or termination, will be referred to and finally resolved by arbitration in Singapore in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC”) being in force for the period of arbitration, which rules are deemed to be incorporated into this Section by reference. There will be one arbitrator, selected jointly by the parties. If the arbitrator is not selected within 30 days of the written demand by a party to submit to arbitration, the Chairman of the SIAC will make the selection. The language of the arbitration will be English.
+
+11.4    Australia, New Zealand, India, Sri Lanka, and Myanmar. If you reside (or are headquartered, if you are a business) in Australia, New Zealand, India, Sri Lanka or Myanmar, then this agreement is governed by and will be construed pursuant to the laws of England and Wales, regardless of conflict of laws principles. All claims related to data protection and data privacy are subject to the laws of Ireland, which does not exclude the application of mandatory statutes. You irrevocably consent to the non-exclusive jurisdiction and venue of the courts in London, England.
+
+11.5    Rest of the World. If you do not reside in any of the countries stated in Sections 11.1–11.4 above, then this agreement is governed by and will be construed pursuant to the laws of Ireland, regardless of conflict of laws principles. You irrevocably consent to the exclusive jurisdiction and venue of the courts in Dublin, Ireland.
+
+11.6    This agreement will not be governed by the following, the application of which is hereby expressly excluded:(a)     the conflict of law rules of any jurisdiction, (b) the United Nations Convention on Contracts for the International Sale of Goods, and (c) the Uniform Computer Information Transactions Act, as enacted in any jurisdiction.
+
+11.7    Notwithstanding any provision in this agreement, you or Adobe may request any judicial, administrative, or other authority to order any provisional or conservatory measure, including injunctive relief, specific performance, or other equitable relief, prior to the institution of legal or arbitration proceedings, or during the proceedings, for the preservation of its rights and interests or to enforce specific terms that are suitable for provisional remedies. 
+
+ 
+
+12.        NOTICE TO U.S. GOVERNMENT END USERS
+
+12.1    Government Licensing of Adobe Technology. Developer agrees that when licensing the SDK for acquisition by the U.S. Government, or any contractor therefore, Developer will license consistent with the policies set forth in 48 C.F.R. Section 12.212 (for civilian agencies) and 48 C.F.R. Sections 227.7202-1 and 227.7202-4 (for the Department of Defense). For U.S. Government End Users, Adobe agrees to comply with all applicable equal opportunity laws including, if appropriate, the provisions of Executive Order 11246, as amended, Section 402 of the Vietnam Era Veterans Readjustment Assistance Act of 1974 (38 USC 4212), and Section 503 of the Rehabilitation Act of 1973, as amended, and the regulations at 41 CFR Parts 60-1 through 60-60, 60-250, and 60-741. The affirmative action clause and regulations contained in the preceding sentence will be incorporated by reference into this Agreement.
+
+12.2    Commercial Items. For U.S. Government End Users, the SDK and any documentation are “Commercial Item(s),” as that term is defined at 48 C.F.R. Section 2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R.  Section 12.212  or  48  C.F.R. Section 227.7202, as applicable. Consistent with 48 C.F.R. Section 12.212 or 48 C.F.R. Sections 227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws of the United States. 
+
+ 
+
+13.        EXPORT RULES
+
+You acknowledge that the SDK is subject to the U.S. Export Administration Regulations (the “EAR”) and that you will comply with the EAR. You will not export or re-export the SDK, directly or indirectly, to: (a) any countries that are subject to U.S. export restrictions (including, but not limited to, Cuba, Iran, North Korea, Sudan, and Syria), (b) any end user whom you know or have reason to know will utilize them in the design, development or production of nuclear, chemical or biological weapons, or rocket systems, space launch vehicles, and sounding rockets, or unmanned air vehicle systems, or (c) any end user who has been prohibited from participating in the U.S. export transactions by any federal agency of the U.S. government. In addition, you are responsible for complying with any local laws in your jurisdiction which may impact your right to import, export or use the SDK. If Adobe has knowledge that a violation has occurred, Adobe may be prohibited from providing maintenance and support for the SDK. 
+
+ 
+
+14.        NON-BLOCKING OF ADOBE DEVELOPMENT
+
+You acknowledge that Adobe is currently developing or may develop technologies and products in the future that have or may have design and/or functionality similar to Developer Products that you may develop based on the licenses granted to you in this agreement. Nothing in this agreement will impair, limit or curtail Adobe’s right to continue with its development, maintenance and/or distribution of Adobe Products. You agree that you will not assert in any way any patent owned by you arising out of or in connection with the SDK or modifications made thereto against Adobe, its subsidiaries or affiliates, or their customers, direct or indirect, agents and contractors for the manufacture, use, import, licensing, offer for sale or sale of any Adobe Products. 
+
+ 
+
+15.        OPEN SOURCE SOFTWARE
+
+Notwithstanding any provision in this agreement to the contrary, you are not licensed to (and you agree that you will not) merge, integrate or use this SDK with any Viral Open Source Software or otherwise take any action that could require disclosure, distribution, or licensing of all or any part of the SDK in source code form, for the purpose of making derivative works, or at no charge. For the purposes of this Section “Viral Open Source Software” means software licensed under the GNU General Public License, the GNU Affero General Public License (AGPL), the GNU Lesser General Public License, or any other license terms that could require, or condition your use, modification, or distribution of such software on, the disclosure, distribution, or licensing of any other software in source code form, for the purpose of making derivative works, or at no charge. Any violation of this Section will immediately terminate all of the licenses and other rights granted to you under this Agreement. 
+
+ 
+
+16.        WAIVER
+
+No provision of this agreement will be deemed to have been waived by any act or acquiescence on the part of Adobe, its agents or employees, but only by an instrument in writing signed by an officer of Adobe. 
+
+ 
+
+17.        INTEGRATION
+
+When conflicting language exists between this agreement and any other agreement included in the SDK, the language in this agreement will control. If either you or Adobe employs attorneys to enforce any rights arising out of or relating to this agreement, the prevailing party will be entitled to recover reasonable attorneys’ fees. You acknowledge that you have read this License Agreement, understand it and that it is the complete and exclusive statement of your agreement with Adobe which supersedes any prior agreement, oral or written, between Adobe and you with respect to the licensing to you of the SDK. No variation of the terms of this agreement will be enforceable against Adobe unless Adobe gives its express consent, in writing signed by an officer of Adobe. The English language version of this Agreement will be the version used in the event any dispute arises hereunder. All translations of this Agreement are for convenience only and may not be used by the parties or any court when interpreting or construing this Agreement.
+
+Creative Suite 6 Packaging and Signing Toolkit

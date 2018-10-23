@@ -10,5 +10,5 @@ exec:
 	chmod a+x MakeZXP.command
 
 zxp:
-	@java -jar ucf.jar -package -storetype PKCS12 -keystore $(KEYSTORE) -storepass $(STOREPASS) -tsa $(TSA) $(EID)$(EXT) -C ././$(EID)/ .
+	@java -jar signingtoolkit/ucf.jar -package -storetype PKCS12 -keystore $(KEYSTORE) -storepass $(STOREPASS) -tsa $(TSA) $(EID)$(EXT) -C ././$(EID)/ .
 	@echo $@ completed
